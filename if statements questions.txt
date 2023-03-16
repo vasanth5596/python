@@ -1,0 +1,28 @@
+
+if elif else conditional statements:------
+
+1.  write a programe to check weather the preson eligible for vote are not.
+2.  Write a program to check weather a number entered by user is even number or odd.
+3.  write a program to accept a number from 1 to 7 and display the name of the day like 1 for ssunday, 2 for monday and so on.
+4.  Write a program to check a number is 3 digited number or not.
+5.  write a program to check wheater a person seriour citizen or not (example take a input("enter a age: ")).
+6.  write a programe to find the lowest number out of two numbers excepted from user.
+7.  Write a program to check a number is positive or not.
+8.  write a program to wheater a number (accepted from user) is divisible by 2 and 3 both.
+9.  write a program to find the largest number out of three input number excepted by user.
+10. A school has following rules for grading system:
+	a. Below 25 - F
+	b. 25 to 45 - E
+	c. 45 to 50 - D
+	d. 50 to 60 - C
+	e. 60 to 80 - B
+	f. Above 80 - A
+	Ask user to enter marks and print the corresponding grade.
+
+11. A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+    Take following input from user
+        Number of classes held
+        Number of classes attended.
+        And print
+        percentage of class attended
+        Is student is allowed to sit in exam or not.

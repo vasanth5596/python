@@ -1,0 +1,34 @@
+
+     for loop concept:---
+     1. Print the first 10 natural numbers using for loop.
+     2. print a multiplication table of a given number (given number is 6).
+     3. write a programe to display names from a list using for loop.
+     4. take months like january, february, march, april and store this month into a list and use for loop for month and if,elif,else statements
+        (example:--if in a month of january we have 30days print the days of a avery months)
+
+     5. write a programme to use for loop and nesterd for loop to print the reverse number pattern
+        (example:-- a=5 and b=5 take this variables into for loop range and nesterd for loop range)
+        (print output like:---5 4 3 2 1 
+			      4 3 2 1 
+			      3 2 1
+			      2 1
+			      1
+     6. Display numbers from -10 to -1 using for loop
+     7. Write a program that appends the types of elements into a empty list x=[] take another list n=["20", "python", "33.98"] and use loop.
+
+     8. take a input number from user and print stars in trangle shape output should be:--  
+         												  * 
+        												 * *
+       													* * *
+      												       * * * *
+     												      * * * * *
+    												     * * * * * *
+   											            * * * * * * *
+                                                                                                   * * * * * * * *
+                                                                                                  * * * * * * * * *
+                                                                                                 * * * * * * * * * *
+
+    9. Write a Python program that prints each item and its corresponding type from the following list.
+        example:-- datalist = [1452, 11.23, 1+2j, True, 'w3resource', (0, -1), [5, 12], {"class":'V', "section":'A'}]
+
+    10. write a programe to accept decimal number and display its binary number.
